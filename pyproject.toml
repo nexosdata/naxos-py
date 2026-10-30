@@ -43,4 +43,4 @@ dev = [
 [project.urls]
 Homepage = "https://naxosdata.com"
 Documentation = "https://naxosdata.com/docs"
-Repository = "https://github.com/naxosdata/naxos-py"
+Repository = "https://github.com/nexosdata/naxos-py"
